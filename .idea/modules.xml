@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_MAVEN.iml" filepath="$PROJECT_DIR$/.idea/JAVA_MAVEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_MAVEN/java-maven-starter-kit-master/geektrust.iml" filepath="$PROJECT_DIR$/JAVA_MAVEN/java-maven-starter-kit-master/geektrust.iml" />
+    </modules>
+  </component>
+</project>
